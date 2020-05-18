@@ -8,13 +8,12 @@ In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, p
 
 Please follow the labs in sequence.
 
-Lab 1. **Launch** a Inf1 Instance, **install** the Neuron development environment, Custom compile a pre-trained model to target the Inferentia Neuron Processor.   
-Lab 2. **install** Neuron run-time and development environment, **test** and **model serve** the compiled ResNet package.   
-Lab 3. **Compile** on C5 and **launch** a load test run on Inf1 Instance.   
-Lab 4. **Debug and profile** your model on Inf1 Instance. 
-
-Lab 5. **Optimize** Bert model on Inf1 instance.
-Lab 6. **Deploying** Models to SageMaker Inf1 host end-point.
+* Lab 1. **Launch** a Inf1 Instance, **install** the Neuron development environment, Custom compile a pre-trained model to target the Inferentia Neuron Processor.   
+* Lab 2. **install** Neuron run-time and development environment, **test** and **model serve** the compiled ResNet package.   
+* Lab 3. **Compile** on C5 and **launch** a load test run on Inf1 Instance.   
+* Lab 4. **Debug and profile** your model on Inf1 Instance. 
+* Lab 5. **Optimize** Bert model on Inf1 instance. 
+* Lab 6. **Deploying** Models to SageMaker Inf1 host end-point. 
 
 ## Slides:
 
