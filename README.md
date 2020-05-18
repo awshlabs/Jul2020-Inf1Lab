@@ -1,4 +1,4 @@
-# Reinvent Inf1 Lab: Hands-on Deep Learning Inference with Amazon EC2 Inf1 Instance
+# Updated Inf1 Lab: Hands-on Deep Learning Inference with Amazon EC2 Inf1 Instance
 
 ## Abstract:
 
