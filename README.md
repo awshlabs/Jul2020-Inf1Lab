@@ -12,7 +12,7 @@ Please follow the labs in sequence.
 * Lab 2. **install** Neuron run-time and development environment, **test** and **model serve** the compiled ResNet package.   
 * Lab 3. **Compile** on C5 and **launch** a load test run on Inf1 Instance.   
 * Lab 4. **Debug and profile** your model on Inf1 Instance. 
-* Lab 5. **Optimize** Bert model on Inf1 instance. 
+* Lab 5. **Optimize** Tensorflow, MxNet, and PyTorch Bert models on Inf1 instance. 
 * Lab 6. **Deploying** Models to SageMaker Inf1 host end-point. 
 
 ## Slides:
